@@ -1,0 +1,18 @@
+nav,
+section{
+    display:block;
+    height: 250px;
+    box-sizing: border-box; 
+    margin: auto;
+}
+section{
+    display:block;
+    float: left;
+    width:60%;
+}
+
+nav{
+    display: block;
+    float: right;
+    width: 30%;
+}
